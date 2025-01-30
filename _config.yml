@@ -16,7 +16,7 @@ timezone: America/Sao_Paulo
 
 title: Vitorx # the main title
 
-tagline: Foi? # it will display as the subtitle
+tagline: Security is a process, not a product. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Simple blog for sharing writeups..
