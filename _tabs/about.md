@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
-# Portuguese:
+## Portuguese:
 
 ### Olá, meu nome é Allan Vitor. Sou formado em Gestão da Informação pela Universidade Federal de Pernambuco (UFPE) e desenvolvi uma forte paixão pela cibersegurança ao longo da minha trajetória acadêmica e profissional. Atualmente, atuo como Estagiário de Analista de Segurança da Informação na Oracle Brasil.
 
@@ -11,7 +11,7 @@ order: 4
 
 ### Neste espaço, irei compartilhar uma seleção dos trabalhos acadêmicos, laboratórios práticos e projetos nos quais tive a oportunidade de participar. Cada um desses projetos reflete não apenas o aprendizado adquirido, mas também a aplicação de conhecimentos técnicos e colaborativos em contextos desafiadores. Espero que este conteúdo possa ilustrar melhor minhas habilidades, competências e a dedicação com a qual me envolvo em cada desafio que enfrento.
 
-# English:
+## English:
 
 ### Hello, my name is Allan Vitor. I have a degree in Information Management from the Federal University of Pernambuco (UFPE), where I developed a strong passion for cybersecurity throughout my academic and professional journey. Currently, I am working as an Information Security Analyst Intern at Oracle Brazil.
 
