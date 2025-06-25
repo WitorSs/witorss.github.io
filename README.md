@@ -14,7 +14,8 @@ This site is structured into the following sections:
 - **Home**: Latest posts and updates
 - **Categories**: Organized content by topic
 - **Certificates**: My most relevant certifications
-- **Projects** *(optional)*: Cybersecurity tools and hands-on labs
+- **Tags**: Tags allow you to access all posts related to a specific topic.
+- **Archives**: Posts are organized in chronological order by their publication date.
 - **About**: More about me and the purpose of this blog
 
 ## 🚀 Technologies Used
