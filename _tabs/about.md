@@ -5,7 +5,7 @@ order: 4
 ---
 ## Portuguese:
 
-### Olá, meu nome é Allan Vitor. Sou formado em Gestão da Informação pela Universidade Federal de Pernambuco (UFPE) e desenvolvi uma forte paixão pela cibersegurança ao longo da minha trajetória acadêmica e profissional. Atualmente, atuo como Estagiário de Analista de Segurança da Informação na Oracle Brasil.
+### Olá, meu nome é Allan Vitor. Sou formado em Gestão da Informação pela Universidade Federal de Pernambuco (UFPE) e desenvolvi uma forte paixão pela cibersegurança ao longo da minha trajetória acadêmica e profissional. Finalizei meu estágio como Analista de Segurança da Informação na Oracle Brasil recente e, atualmente, estou em uma nova formação na área de Segurança da Informação para aprofundar meus conhecimentos e habilidades.
 
 ### Sou uma pessoa proativa, adaptável e comprometida com o aprendizado contínuo. Busco constantemente me atualizar sobre as tendências tecnológicas e as melhores práticas de segurança, aprimorando minhas habilidades para enfrentar desafios no dinâmico cenário da cibersegurança.
 
@@ -13,7 +13,7 @@ order: 4
 
 ## English:
 
-### Hello, my name is Allan Vitor. I have a degree in Information Management from the Federal University of Pernambuco (UFPE), where I developed a strong passion for cybersecurity throughout my academic and professional journey. Currently, I am working as an Information Security Analyst Intern at Oracle Brazil.
+### Hello, my name is Allan Vitor. I hold a degree in Information Management from the Federal University of Pernambuco (UFPE) and have developed a strong passion for cybersecurity throughout my academic and professional journey. I recently completed my internship as an Information Security Analyst at Oracle Brazil, and I am currently pursuing further training in Information Security to deepen my knowledge and skills.
 
 ### I am a proactive and adaptable professional, committed to continuous learning. I constantly seek to stay updated on technological trends and best security practices, enhancing my skills to tackle challenges in the ever-evolving cybersecurity landscape.
 
