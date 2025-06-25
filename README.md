@@ -1,4 +1,4 @@
-# 🛡️ witorss.github.io — Cybersecurity Blog by Allan Vitor
+# 🛡️ Cybersecurity Blog by Vitor — witorss.github.io
 
 Welcome to my personal cybersecurity blog, built with [Jekyll](https://jekyllrb.com/) and the [Chirpy theme](https://github.com/cotes2020/jekyll-theme-chirpy).  
 Here I share knowledge, projects, certifications, study notes, and hands-on experiments in the field of information security.
@@ -24,4 +24,3 @@ This site is structured into the following sections:
 - Ruby + Bundler
 - GitHub Pages
 - Docker + Dev Containers (for local development)
-
