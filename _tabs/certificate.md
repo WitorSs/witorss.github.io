@@ -26,15 +26,15 @@ Here are some of my most relevant certifications in the field of cybersecurity:
 
   <!-- Card 3 -->
   <div style="border: 1px solid #ddd; border-radius: 10px; width: 300px; padding: 15px; text-align: center; box-shadow: 2px 2px 10px rgba(0,0,0,0.05);">
-    <img src="assets/img/certificates/Fundamentos em Cibersegurança.jpg" alt="Fundamentos em Cibersegurança" style="width: 100%; border-radius: 5px;">
-    <h3 style="margin-top: 10px;">Fundamentos em Cibersegurança</h3>
+    <img src="assets/img/certificates/Fundamentos em Cibersegurança.jpg" alt="Cybersecurity Fundamentals" style="width: 100%; border-radius: 5px;">
+    <h3 style="margin-top: 10px;">Cybersecurity Fundamentals</h3>
     <p>October 2024</p>
   </div>
 
   <!-- Card 4 -->
   <div style="border: 1px solid #ddd; border-radius: 10px; width: 300px; padding: 15px; text-align: center; box-shadow: 2px 2px 10px rgba(0,0,0,0.05);">
-    <img src="assets/img/certificates/Boas Práticas de Cibersegurança.jpg" alt="Boas Práticas de Cibersegurança" style="width: 100%; border-radius: 5px;">
-    <h3 style="margin-top: 10px;">Boas Práticas de Cibersegurança</h3>
+    <img src="assets/img/certificates/Boas Práticas de Cibersegurança.jpg" alt="Cybersecurity Best Practices" style="width: 100%; border-radius: 5px;">
+    <h3 style="margin-top: 10px;">Cybersecurity Best Practices</h3>
     <p>October 2024</p>
   </div>
 
@@ -71,8 +71,8 @@ Here are some of my most relevant certifications in the field of cybersecurity:
 
   <!-- Card 8 -->
   <div style="border: 1px solid #ddd; border-radius: 10px; width: 300px; padding: 15px; text-align: center; box-shadow: 2px 2px 10px rgba(0,0,0,0.05);">
-    <img src="assets/img/certificates/Santander.jpg" alt="Santander Bootcamp Cibersegurança #2" style="width: 100%; border-radius: 5px;">
-    <h3 style="margin-top: 10px;">Santander Bootcamp Cibersegurança #2</h3>
+    <img src="assets/img/certificates/Santander.jpg" alt="Santander Cybersecurity Bootcamp #2" style="width: 100%; border-radius: 5px;">
+    <h3 style="margin-top: 10px;">Santander Cybersecurity Bootcamp #2</h3>
     <p>December 2024</p>
   </div>
 
