@@ -97,4 +97,11 @@ Here are some of my most relevant certifications in the field of cybersecurity:
     <p>December 2024</p>
   </div>
 
+  <!-- Card 12 -->
+  <div style="border: 1px solid #ddd; border-radius: 10px; width: 300px; padding: 15px; text-align: center; box-shadow: 2px 2px 10px rgba(0,0,0,0.05);">
+    <img src="assets/img/certificates/Cisco.jpg" alt="Introduction to Cybersecurity" style="width: 100%; border-radius: 5px;">
+    <h3 style="margin-top: 10px;">Introduction to Cybersecurity</h3>
+    <p>December 2024</p>
+  </div>
+
 </div>
