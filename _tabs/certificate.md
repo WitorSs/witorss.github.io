@@ -104,4 +104,11 @@ Here are some of my most relevant certifications in the field of cybersecurity:
     <p>December 2024</p>
   </div>
 
+  <!-- Card 13 -->
+  <div style="border: 1px solid #ddd; border-radius: 10px; width: 300px; padding: 15px; text-align: center; box-shadow: 2px 2px 10px rgba(0,0,0,0.05);">
+    <img src="assets/img/certificates/Introdução-Pentest.jpg" alt="Introduction to Practical Pentesting" style="width: 100%; border-radius: 5px;">
+    <h3 style="margin-top: 10px;">Introduction to Practical Pentesting</h3>
+    <p>July 2025</p>
+  </div>
+
 </div>
