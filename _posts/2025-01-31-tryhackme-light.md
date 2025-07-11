@@ -2,7 +2,7 @@
 title: "TryHackMe: Light"
 author: Vitorx
 categories: [TryHackMe]
-tags: [sql, sql injection, sqlite]
+tags: [Tryhackme Writeup, sql, sql injection, sqlite]
 render_with_liquid: false
 img_path: /images/tryhackme_light/
 image:

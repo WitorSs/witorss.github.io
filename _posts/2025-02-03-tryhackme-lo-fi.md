@@ -2,7 +2,7 @@
 title: "TryHackMe: Lo-Fi"
 author: Vitorx
 categories: [TryHackMe]
-tags: [LFI, web, File Inclusion]
+tags: [Tryhackme Writeup, LFI, web, File Inclusion]
 render_with_liquid: false
 img_path: /images/tryhackme_lo-fi/
 image:

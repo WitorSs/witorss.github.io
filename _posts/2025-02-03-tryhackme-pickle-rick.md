@@ -2,7 +2,7 @@
 title: "TryHackMe: Pickle Rick"
 author: Vitorx
 categories: [TryHackMe]
-tags: [LFI, Recon, File Inclusion]
+tags: [Tryhackme Writeup, LFI, Recon, File Inclusion]
 render_with_liquid: false
 img_path: /images/tryhackme_pickle-rick/
 image:
