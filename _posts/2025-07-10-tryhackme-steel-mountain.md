@@ -17,7 +17,7 @@ In this room you will enumerate a Windows machine, gain initial access with Meta
 
 After deploying the machine, the first challenge appears: finding out the name of the employee of the month.
 
-To do this, we visit the site at http://<target IP>
+To do this, we visit the site at http://target IP
 
 ![Web 80 Index](/images/tryhackme_steel.mountain/page.jpg){: width="1200" height="600"}
 
