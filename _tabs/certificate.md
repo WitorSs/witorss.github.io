@@ -9,6 +9,13 @@ Here are some of my most relevant certifications in the field of cybersecurity:
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
+  <!-- Card 0 -->
+  <div style="border: 1px solid #ddd; border-radius: 10px; width: 300px; padding: 15px; text-align: center; box-shadow: 2px 2px 10px rgba(0,0,0,0.05);">
+    <img src="/assets/img/certificates/Solyd.png" alt="Solyd Certified Pentester" style="width: 100%; border-radius: 5px;">
+    <h3 style="margin-top: 10px;">Solyd Certified Pentester</h3>
+    <p>In Progress</p>
+  </div>
+
   <!-- Card 1 -->
   <div style="border: 1px solid #ddd; border-radius: 10px; width: 300px; padding: 15px; text-align: center; box-shadow: 2px 2px 10px rgba(0,0,0,0.05);">
     <img src="/assets/img/certificates/Google.jpg" alt="Google Cybersecurity" style="width: 100%; border-radius: 5px;">
