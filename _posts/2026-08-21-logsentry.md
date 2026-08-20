@@ -1,5 +1,5 @@
 ---
-title: "Building logsentry: finding the compromise hiding in an auth log"
+title: "Catching a compromise hiding in an SSH log"
 author: allanvitor
 categories: [Personal Projects]
 tags: [Python, Blue Team, Log Analysis, Detection, SSH, Brute Force, Tooling]
