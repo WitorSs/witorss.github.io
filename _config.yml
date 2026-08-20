@@ -14,12 +14,14 @@ timezone: America/Sao_Paulo
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Vitorx # the main title
+title: Allan Vitor # the main title
 
-tagline: Security is a process, not a product. # it will display as the subtitle
+tagline: Developer turned security enthusiast - breaking, building and documenting. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Simple blog for sharing writeups..
+  Cybersecurity writeups, tooling and hands-on labs by Allan Vitor —
+  a developer moving into offensive security. CTF walkthroughs,
+  security scripts and practical notes.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -38,7 +40,7 @@ social:
   email: allanvitor321@hotmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://www.linkedin.com/in/allan-vitor-04a569203/
+    - https://www.linkedin.com/in/allan-souza-7633103b0/
     - https://github.com/WitorSs # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -98,7 +100,7 @@ theme_mode: dark # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets/img/iconDavid.jpg
+avatar: assets/img/avatar.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

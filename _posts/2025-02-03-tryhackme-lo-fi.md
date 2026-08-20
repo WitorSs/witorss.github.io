@@ -1,6 +1,6 @@
 ---
 title: "TryHackMe: Lo-Fi"
-author: Vitorx
+author: allanvitor
 categories: [TryHackMe]
 tags: [Tryhackme Writeup, LFI, web, File Inclusion]
 render_with_liquid: false

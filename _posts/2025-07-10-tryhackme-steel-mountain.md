@@ -1,6 +1,6 @@
 ---
 title: "TryHackMe: Steel Mountain"
-author: Vitorx
+author: allanvitor
 categories: [TryHackMe]
 tags: [Tryhackme Writeup, Metasploit, Powershell, Privilege Escalation]
 render_with_liquid: false

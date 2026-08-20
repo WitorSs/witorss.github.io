@@ -1,6 +1,6 @@
 ---
 title: "TryHackMe: Pickle Rick"
-author: Vitorx
+author: allanvitor
 categories: [TryHackMe]
 tags: [Tryhackme Writeup, LFI, Recon, File Inclusion]
 render_with_liquid: false

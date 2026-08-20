@@ -1,6 +1,6 @@
 ---
 title: "Basic Password Strength Checker in Python"
-author: Vitorx
+author: allanvitor
 categories: [Personal Projects]
 tags: [Python, Tkinter, Password Strength Checker, Password Validation, Password Security]
 render_with_liquid: false

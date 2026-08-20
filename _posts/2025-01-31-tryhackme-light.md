@@ -1,6 +1,6 @@
 ---
 title: "TryHackMe: Light"
-author: Vitorx
+author: allanvitor
 categories: [TryHackMe]
 tags: [Tryhackme Writeup, sql, sql injection, sqlite]
 render_with_liquid: false
