@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nmaprun>
+<nmaprun scanner="nmap" args="nmap -sV -sC -oX scan.xml 10.10.10.5" start="1718000000" startstr="Mon Jun 10 12:00:00 2024" version="7.94" xmloutputversion="1.05">
+<host starttime="1718000000" endtime="1718000200">
+<status state="up" reason="echo-reply" reason_ttl="63"/>
+<address addr="10.10.10.5" addrtype="ipv4"/>
+<hostnames><hostname name="target.local" type="PTR"/></hostnames>
+<ports>
+<port protocol="tcp" portid="22"><state state="open" reason="syn-ack" reason_ttl="63"/><service name="ssh" product="OpenSSH" version="7.6p1 Ubuntu 4ubuntu0.3" ostype="Linux" method="probed" conf="10"/></port>
+<port protocol="tcp" portid="80"><state state="open" reason="syn-ack" reason_ttl="63"/><service name="http" product="Apache httpd" version="2.4.29" extrainfo="(Ubuntu)" method="probed" conf="10"/><script id="http-title" output="Welcome to the Company Portal"/><script id="http-server-header" output="Apache/2.4.29 (Ubuntu)"/></port>
+<port protocol="tcp" portid="443"><state state="open" reason="syn-ack" reason_ttl="63"/><service name="https" product="Apache httpd" version="2.4.29" tunnel="ssl" method="probed" conf="10"/></port>
+<port protocol="tcp" portid="3306"><state state="open" reason="syn-ack" reason_ttl="63"/><service name="mysql" product="MySQL" version="5.7.33" method="probed" conf="10"/></port>
+<port protocol="tcp" portid="445"><state state="open" reason="syn-ack" reason_ttl="63"/><service name="microsoft-ds" product="Samba smbd" version="4.7.6-Ubuntu" method="probed" conf="10"/></port>
+<port protocol="tcp" portid="21"><state state="open" reason="syn-ack" reason_ttl="63"/><service name="ftp" product="vsftpd" version="2.3.4" method="probed" conf="10"/></port>
+<port protocol="tcp" portid="23"><state state="closed" reason="reset" reason_ttl="63"/><service name="telnet" method="table" conf="3"/></port>
+<port protocol="tcp" portid="8080"><state state="open" reason="syn-ack" reason_ttl="63"/><service name="http-proxy" product="nginx" version="1.14.0" method="probed" conf="10"/></port>
+</ports>
+</host>
+<host starttime="1718000000" endtime="1718000200">
+<status state="up" reason="echo-reply" reason_ttl="128"/>
+<address addr="10.10.10.6" addrtype="ipv4"/>
+<hostnames></hostnames>
+<ports>
+<port protocol="tcp" portid="3389"><state state="open" reason="syn-ack" reason_ttl="128"/><service name="ms-wbt-server" product="Microsoft Terminal Services" method="probed" conf="10"/></port>
+<port protocol="tcp" portid="139"><state state="open" reason="syn-ack" reason_ttl="128"/><service name="netbios-ssn" product="Microsoft Windows netbios-ssn" method="probed" conf="10"/></port>
+</ports>
+</host>
+<runstats><finished time="1718000200" timestr="Mon Jun 10 12:03:20 2024" elapsed="200.00" summary="Nmap done; 2 IP addresses (2 hosts up) scanned" exit="success"/><hosts up="2" down="0" total="2"/></runstats>
+</nmaprun>

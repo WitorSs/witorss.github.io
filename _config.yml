@@ -16,10 +16,10 @@ timezone: America/Sao_Paulo
 
 title: Allan Vitor # the main title
 
-tagline: Developer turned security enthusiast - breaking, building and documenting. # it will display as the subtitle
+tagline: Developer turned security enthusiast. Breaking, building and documenting. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Cybersecurity writeups, tooling and hands-on labs by Allan Vitor —
+  Cybersecurity writeups, tooling and hands-on labs by Allan Vitor,
   a developer moving into offensive security. CTF walkthroughs,
   security scripts and practical notes.
 
