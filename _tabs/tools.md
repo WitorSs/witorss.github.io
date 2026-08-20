@@ -46,4 +46,14 @@ of this site's repository.
     </div>
   </a>
 
+
+  <a class="tool-card" href="/posts/logsentry/">
+    <div class="tool-icon"><i class="fas fa-shield-halved"></i></div>
+    <div class="tool-body">
+      <h3>logsentry</h3>
+      <p>Reads an SSH auth log and surfaces the attacks buried in it: brute-force sources and, most important, any brute force that ended in a successful login. Markdown and HTML output.</p>
+      <div class="tool-tags"><span>Python</span><span>Blue Team</span><span>Log Analysis</span><span>Detection</span></div>
+    </div>
+  </a>
+
 </div>
