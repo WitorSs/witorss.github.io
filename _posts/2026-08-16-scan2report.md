@@ -1,5 +1,5 @@
 ---
-title: "Turning Nmap noise into a report worth reading""
+title: "Building scan2report: from raw Nmap output to a report worth reading"
 author: allanvitor
 categories: [Personal Projects]
 tags: [Python, Nmap, Tooling, Automation, Reconnaissance, Reporting]

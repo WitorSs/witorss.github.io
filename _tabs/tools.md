@@ -56,4 +56,14 @@ of this site's repository.
     </div>
   </a>
 
+
+  <a class="tool-card" href="/posts/gofuzz/">
+    <div class="tool-icon"><i class="fas fa-bolt"></i></div>
+    <div class="tool-body">
+      <h3>gofuzz</h3>
+      <p>A fast, concurrent web content discovery tool written in Go. Finds hidden paths on a server using a worker pool and a shared rate limiter. Built to learn goroutines properly.</p>
+      <div class="tool-tags"><span>Go</span><span>Concurrency</span><span>Recon</span><span>Fuzzing</span></div>
+    </div>
+  </a>
+
 </div>
