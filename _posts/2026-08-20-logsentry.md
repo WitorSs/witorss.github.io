@@ -7,7 +7,7 @@ render_with_liquid: false
 permalink: /posts/logsentry/
 img_path: /images/logsentry/
 image:
-  path: /images/logsentry/report-html.png
+  path: /images/logsentry/card.jpg
 ---
 
 My first tool, [scan2report](/posts/scan2report/), was offensive: it takes the

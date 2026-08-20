@@ -7,7 +7,7 @@ render_with_liquid: false
 permalink: /posts/scan2report/
 img_path: /images/scan2report/
 image:
-  path: /images/scan2report/report-html.png
+  path: /images/scan2report/card.jpg
 ---
 
 Nmap gives you **results**, not a **report**. Every time I finished a scan I
