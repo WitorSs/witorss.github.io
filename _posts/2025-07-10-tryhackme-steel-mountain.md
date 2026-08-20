@@ -168,17 +168,15 @@ The exploit needs to be executed twice:
 
 - The second run executes the payload to give us a reverse shell.
 
-I modified the exploit script with my IP and port.
+I modified the exploit script with my IP and port, then started a Netcat listener to catch the reverse shell.
 
-![Web 80 Index](/images/tryhackme_steel.mountain/p7.jpg){: width="1200" height="600"}
+![Netcat listener waiting for the connection](/images/tryhackme_steel.mountain/p5.jpg){: width="1200" height="600"}
+_Listener ready on my attacking machine._
 
-After running it, I successfully got a shell.
+After running the exploit, I successfully got a shell as SYSTEM.
 
-![Web 80 Index](/images/tryhackme_steel.mountain/p7.jpg){: width="1200" height="600"}
-
-![Web 80 Index](/images/tryhackme_steel.mountain/p7.jpg){: width="1200" height="600"}
-
-![Web 80 Index](/images/tryhackme_steel.mountain/p7.jpg){: width="1200" height="600"}
+![Reverse shell received on the target](/images/tryhackme_steel.mountain/p6.jpg){: width="1200" height="600"}
+_Shell caught: a Windows command prompt on the target._
 
 We’re now onto the system. Now we can pull winPEAS to the system using powershell -c.
 
